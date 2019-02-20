@@ -9,6 +9,7 @@ function addScript(src) {
 
 //-- Maths --\\
 addScript("Library/Maths/Vector2.js");
+addScript("Library/Maths/BasicMaths.js");
 
 //-- Graphics --\\
 addScript("Library/Graphics/Sprite.js");
